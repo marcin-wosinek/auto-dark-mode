@@ -1,2 +1,7 @@
 @import url("styles.light.css") (prefers-color-scheme: light);
 @import url("styles.dark.css") (prefers-color-scheme: dark);
+
+body {
+  background-color: var(--main-bg-color);
+  color: var(--main-color);
+}

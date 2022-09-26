@@ -1,4 +1,4 @@
-body {
-  background-color: #303030;
-  color: #fff;
+:root {
+  --main-bg-color: #303030;
+  --main-color: #fff;
 }
